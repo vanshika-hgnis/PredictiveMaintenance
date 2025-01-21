@@ -2,8 +2,8 @@
 
 # Setup
 
-pip install -r requirements.txt
-uvicorn api:app --reload
+- pip install -r requirements.txt
+- uvicorn api:app --reload
 
 # Example Use
 
